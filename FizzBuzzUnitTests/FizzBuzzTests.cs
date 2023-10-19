@@ -28,5 +28,13 @@ namespace FizzBuzzUnitTests
 
             Assert.AreEqual("FizzBuzz", FizzBuzz.GetOutput(15));
         }
+
+        [TestMethod]
+        public void TestNotDivisibleBy3Or5()
+        {
+            FizzBuzz FizzBuzz = new FizzBuzz();
+
+            Assert.AreEqual("7", FizzBuzz.GetOutput(7));
+        }
     }
 }
