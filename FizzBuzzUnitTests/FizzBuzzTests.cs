@@ -1,11 +1,16 @@
+using FizzBuzzProject;
+
 namespace FizzBuzzUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class FizzBuzzTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestDivisibleBy3()
         {
+            FizzBuzz FizzBuzz = new FizzBuzz();
+
+            Assert.AreEqual("Fizz", FizzBuzz.GetOutput(3));
         }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace FizzBuzzProject
 {
-    internal class FizzBuzz
+    public class FizzBuzz:IFizzBuzz
     {
+        public string GetOutput(int number)
+        {
+            return "";
+        }
     }
 }

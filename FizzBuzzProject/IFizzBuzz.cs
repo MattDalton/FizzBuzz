@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FizzBuzzProject
 {
-    internal interface IFizzBuzz
+    public interface IFizzBuzz
     {
+        string GetOutput(int number);
     }
 }

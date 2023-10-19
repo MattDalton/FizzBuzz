@@ -1,0 +1,14 @@
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\bin\Debug\net6.0\FizzBuzzProject.exe
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\bin\Debug\net6.0\FizzBuzzProject.deps.json
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\bin\Debug\net6.0\FizzBuzzProject.runtimeconfig.json
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\bin\Debug\net6.0\FizzBuzzProject.dll
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\bin\Debug\net6.0\FizzBuzzProject.pdb
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.AssemblyInfoInputs.cache
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.AssemblyInfo.cs
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.csproj.CoreCompileInputs.cache
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.dll
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\refint\FizzBuzzProject.dll
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.pdb
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\FizzBuzzProject.genruntimeconfig.cache
+C:\Users\matty\OneDrive\Documents\GitHub\FizzBuzz\FizzBuzzProject\obj\Debug\net6.0\ref\FizzBuzzProject.dll
