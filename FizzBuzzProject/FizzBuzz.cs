@@ -10,6 +10,7 @@ namespace FizzBuzzProject
     {
         public string GetOutput(int number)
         {
+            if (number % 3 == 0) return "Fizz";
             return "";
         }
     }
